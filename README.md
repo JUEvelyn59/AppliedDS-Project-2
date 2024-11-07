@@ -14,6 +14,6 @@ This folder is orgarnized as follows.
 
 ```
 proj/
-├── notebook/
+├── notebook/Project2.ipynb
 ├── doc/report
 ```
