@@ -16,5 +16,4 @@ This folder is orgarnized as follows.
 proj/
 ├── notebook/
 ├── doc/report
-└── output/best_model.pth
 ```
